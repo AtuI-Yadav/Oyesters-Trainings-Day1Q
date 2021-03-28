@@ -8,7 +8,7 @@ E.g.: - Input – [1,1,2,2,4,4,4,4,5] Output – [4, 5]
         Input – [2,2,2,2,4,4,4,4,5] Output – [2, 5] 
         Input – [1,2,2,4,4,4,4,5] Output – [4, 1]
 	
-#============================================================================
+#===========================================================================
 	
 2nd. Given a time in 12-hr AM/PM format, convert it to military time(24hr) and you also need to add 
 45 min &45 sec in the result and the display the output. 
